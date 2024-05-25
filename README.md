@@ -1,3 +1,5 @@
-Hi my name is Mateo Shkodra
+Hi my name is Mateo Shkodra.
 
-I like doing abstract math and competitive programming.
+I like Combinatorics and Statistics.
+
+mshkodra.com
