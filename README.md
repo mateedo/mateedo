@@ -1,5 +1,5 @@
 Hi my name is Mateo Shkodra.
 
-I like Statistics.
+I like math and soccer.
 
 https://mshkodra.com
