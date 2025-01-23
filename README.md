@@ -1,5 +1,5 @@
 Hi my name is Mateo Shkodra.
 
-I like Combinatorics and Statistics.
+I like Statistics.
 
 https://mshkodra.com
